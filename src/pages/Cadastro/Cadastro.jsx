@@ -40,10 +40,7 @@ export default function Cadastro() {
         'Accept':'application/json'
       } 
     })
-    // {.then(retorno = retorno.json())
-    // .then(retorno_convertido => {
-    //   console.log(retorno_convertido);
-    // } )}
+
   }
   const handleChange = (e) => {
     setCadastro({...cadastro, [e.target.name]: e.target.value});
