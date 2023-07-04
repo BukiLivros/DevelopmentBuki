@@ -79,6 +79,18 @@ export const CadastroStyled = styled.section`
         cursor: pointer;
         padding: 1rem 2rem;
         border-radius: 1.5rem;
+        transition: all 300ms ease-in-out;
+    }
+
+    form .botao:hover{
+        background-color: #8886E6;
+        color: white;
+        font-family: "Inter", sans-serif;
+        font-size: 2.2rem;
+        text-align: center;
+        cursor: pointer;
+        padding: 1.2rem 2.2rem;
+        border-radius: 1.5rem;
     }
 
     .bukiHome {

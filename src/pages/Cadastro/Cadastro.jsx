@@ -6,6 +6,15 @@ import { useNavigate } from "react-router-dom";
 
 export default function Cadastro() {
 
+  const navigate = useNavigate();
+
+  const [senhaConfirma, setSenhaConfirma] = useState();
+
+  const handleConfirmaSenha = (e) => {
+    setSenhaConfirma(e, senhaConfirma); 
+    return;
+  }
+
   const [senhaMatch, setSenhaMatch] = useState(true);
 
   const [usuario, setUsuario] = useState({
@@ -143,7 +152,7 @@ export default function Cadastro() {
                   name="confirmacaoSenha"
                   placeholder="Confirme sua senha"
                   className="input"
-                  onChange={handleChange}
+                  onChange={handleConfirmaSenha}
                   required
                 />
               </div>

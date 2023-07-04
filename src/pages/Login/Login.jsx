@@ -45,7 +45,6 @@ export default function Login(props) {
           senha: login.senha
         });
           console.log(response.data);
-          alert("Usuário identificado!")
           navigate("/feed")
       } catch (error) {
           alert("Dados incorretos!")
