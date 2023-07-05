@@ -57,9 +57,7 @@ export default function Sidebar(props) {
                   <li className= {props.tipoItem4}>{props.itemSidebar4}</li>
                 </Link>
                     
-                <Link to="/">
                   <li className= {props.tipoItem5}>{props.itemSidebar5}</li>
-                </Link>
                  
               </NavegacaoUl>
 
