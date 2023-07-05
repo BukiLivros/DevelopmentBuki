@@ -34,6 +34,7 @@ public class UserController {
     @PostMapping
     @Transactional
     public void Usuario(@RequestBody @Valid DataUserRegister data) throws Exception{
+
         userService.salvarUsuario(new UserModel(data));
     }
 

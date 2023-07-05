@@ -12,7 +12,8 @@ import org.springframework.stereotype.Service;
 @Service
 public class UserService implements UserDetailsService {
     @Autowired
-    private UserRepository userRepository;
+    private final UserRepository userRepository;
+
 
     public UserService(UserRepository repository) {
         this.userRepository = repository;
@@ -25,10 +26,13 @@ public class UserService implements UserDetailsService {
         return new UserDetailsImpl(userModel);
     }
 
-    public void salvarUsuario(UserModel userModel){
+    public void salvarUsuario(UserModel userModel) throws Exception{
         //String hashSenha = PasswordUtil.encoder(usuario.getSenha());
         //usuario.setSenha(hashSenha);
-
+        String email = userModel.getEmail();
+        if(userRepository.findByEmail(email) != null){
+            throw new Exception("Email já cadastrado");
+        }
         userRepository.save(userModel);
     }
 

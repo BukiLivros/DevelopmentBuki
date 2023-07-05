@@ -10,4 +10,5 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 public interface UserRepository extends JpaRepository<UserModel, Long> {
     @Query("SELECT i from User i WHERE i.email = :email")
     UserModel findByEmail(String email);
+
 }
