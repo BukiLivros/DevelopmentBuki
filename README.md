@@ -228,7 +228,6 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
 </h3>
 
 <p align="center">
-  <a href=""><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 40px; margin: 0 8px;"></a>
-  <a href="mailto:literalbuki@outlook.com"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gmailIcon.png" style="height: 40px; margin: 0 8px;"></a>
+    <a href="mailto:literalbuki@outlook.com"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gmailIcon.png" style="height: 40px; margin: 0 8px;"></a>
   <a href="https://www.instagram.com/oficialbuki/"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/instagramIcon.png" style="height: 40px; margin: 0 8px;"></a>
 </p>
