@@ -96,9 +96,9 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
 <table>
   <tr>
     <td align="center">
-      <div style="display: flex; flex-direction: column; align-items: center;">
+      <div>
         <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/leonardoIcon.png">
-        <p style="text-align: center; font-weight: bold;">Product Owner e desenvolvedor Front-End</p>
+        <p>Product Owner e desenvolvedor Front-End</p>
         <div style="display: flex; gap: 20px; width: 200px; justify-content: center;">
           <a href="https://www.linkedin.com/in/leonardo-gon%C3%A7alves-dev/" target="_blank">
             <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;">
@@ -113,9 +113,9 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
       </div>
     </td>
     <td align="center">
-      <div style="display: flex; flex-direction: column; align-items: center;">
+      <div>
         <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/guilherme.png">
-        <p style="text-align: center; font-weight: bold;">Financeiro e desenvolvedor Full-Stack</p>
+        <p>Financeiro e desenvolvedor Full-Stack</p>
         <div style="display: flex; gap: 20px; width: 200px; justify-content: center;">
           <a href="https://www.linkedin.com/in/guilherme-caetano1010/" target="_blank">
             <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;">
@@ -128,6 +128,18 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
           </a>
         </div>
       </div>
+    </td>
+    <td>
+      <div style="margin-bottom: 100px;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/raquelIcon.png">
+    <p style="text-align: center; font-weight: bold;">Designer e desenvolvedora Back-End</p>
+    <div style="display: flex; gap: 20px; width: 200px; height: 30px; justify-content: center">
+    <a href="https://www.linkedin.com/in/raquel-silva13/" target="_blank"> <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;"></a>
+    <a href="https://github.com/httpsquel" target="_blank"> <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gitHubIcon.png" style="height: 30px; border-radius:15px;"></a>
+    <a href="mailto:bezerra.raquel@outlook.com">
+   <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gmailIcon.png" style="height: 30px; border-radius:15px;"> </a>
+    </div>
+  </div>
     </td>
   </tr>
 </table>
