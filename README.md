@@ -190,16 +190,16 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
 <h2 id="parceiros">🤝 Parceiros</h2>
   <div style="display: flex; justify-content: center;">
   <a href="https://www.sp.senac.br/">
-    <img src="[img/senac-logo.svg](https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/senac-logo.svg)" style="width: 200px; height: auto;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/senac-logo.svg" style="width: 200px; height: auto;">
   </a>
   <a href="https://siseb.sp.gov.br/">
-    <img src="[img/sisebLogo.svg](https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/sisebLogo.svg)" style="width: 200px; height: auto;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/sisebLogo.svg" style="width: 200px; height: auto;">
   </a>
   <a href="https://www.proa.org.br/">
-    <img src="[img/proaLogo.svg](https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/proaLogo.svg)" style="width: 200px; height: auto;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/proaLogo.svg" style="width: 200px; height: auto;">
   </a>
   <a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/bibliotecas/bibliotecas_bairro/bibliotecas_m_z/marioschenberg/">
-    <img src="[img/shenbergLogo.svg](https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/shenbergLogo.svg)" style="width: 200px; height: auto;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/shenbergLogo.svg" style="width: 200px; height: auto;">
   </a>
 </div>
 
