@@ -199,7 +199,7 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
     <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/proaLogo.svg" style="width: 200px; height: auto;">
   </a>
   <a href="https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura/bibliotecas/bibliotecas_bairro/bibliotecas_m_z/marioschenberg/">
-    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/shenbergLogo.svg" style="width: 200px; height: auto;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/shenbergLogo.svg" style="width: 200px; height: 100px;">
   </a>
 </div>
 
