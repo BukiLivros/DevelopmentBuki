@@ -92,9 +92,6 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
 </ul>
 
 <h2 id="nossoTime"> 💼 Conheça nosso time!</h2>
-
-  <div class="container" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;"> 
-
 <div class="container" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
   <div style="margin-bottom: 100px; display: flex; flex-direction: column; align-items: center;">
     <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/leonardoIcon.png">
@@ -109,16 +106,19 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
         <a href="mailto:leo.d.anderson@hotmail.com"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gmailIcon.png" style="height: 30px; border-radius:15px"></a>
     </div>
   </div>
-
-
-  <div style="margin-bottom: 100px;">
+  <div style="margin-bottom: 100px; display: flex; flex-direction: column; align-items: center;">
     <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/guilherme.png">
     <p style="text-align: center; font-weight: bold;">Financeiro e desenvolvedor Full-Stack</p>
-    <div style="display: flex; gap: 20px; width: 200px; height: 50px; justify-content: center">
-    <a href="https://www.linkedin.com/in/guilherme-caetano1010/" target="_blank"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;"></a>
-    <a href="https://github.com/guilhermecaetano1010" target="_blank"> <img  src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gitHubIcon.png" style="height: 30px; border-radius:15px;"></a>
-    <a href="mailto:guilherme.caetano1010@gmail.com">
-    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gmailIcon.png" style="height: 30px; border-radius:15px;"> </a>
+    <div style="display: flex; gap: 20px; width: 200px; justify-content: center;">
+        <a href="https://www.linkedin.com/in/guilherme-caetano1010/" target="_blank">
+            <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;">
+        </a>
+        <a href="https://github.com/guilhermecaetano1010" target="_blank">
+            <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gitHubIcon.png" style="height: 30px;border-radius: 15px;">
+        </a>
+        <a href="mailto:guilherme.caetano1010@gmail.com">
+            <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gmailIcon.png" style="height: 30px; border-radius:15px;">
+        </a>
     </div>
   </div>
 
