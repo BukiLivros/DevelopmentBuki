@@ -92,26 +92,46 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
 </ul>
 
 <h2 id="nossoTime"> 💼 Conheça nosso time!</h2>
+
 <table>
   <tr>
     <td>
-      <div>
+      <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/leonardoIcon.png">
         <p style="text-align: center; font-weight: bold;">Product Owner e desenvolvedor Front-End</p>
         <div style="display: flex; gap: 20px; width: 200px; justify-content: center;">
-            <a href="https://www.linkedin.com/in/leonardo-gon%C3%A7alves-dev/" target="_blank">
-                <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;">
-            </a>
-            <a href="https://github.com/Leowins01" target="_blank">
-                <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gitHubIcon.png" style="height: 30px;border-radius: 15px;">
-            </a>
-            <a href="mailto:leo.d.anderson@hotmail.com"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gmailIcon.png" style="height: 30px; border-radius:15px"></a>
+          <a href="https://www.linkedin.com/in/leonardo-gon%C3%A7alves-dev/" target="_blank">
+            <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;">
+          </a>
+          <a href="https://github.com/Leowins01" target="_blank">
+            <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gitHubIcon.png" style="height: 30px;border-radius: 15px;">
+          </a>
+          <a href="mailto:leo.d.anderson@hotmail.com">
+            <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gmailIcon.png" style="height: 30px; border-radius:15px">
+          </a>
         </div>
       </div>
     </td>
-    <!-- Adicione mais colunas conforme necessário para as outras divs da equipe -->
+    <td>
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/guilherme.png">
+        <p style="text-align: center; font-weight: bold;">Financeiro e desenvolvedor Full-Stack</p>
+        <div style="display: flex; gap: 20px; width: 200px; justify-content: center;">
+          <a href="https://www.linkedin.com/in/guilherme-caetano1010/" target="_blank">
+            <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;">
+          </a>
+          <a href="https://github.com/guilhermecaetano1010" target="_blank">
+            <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gitHubIcon.png" style="height: 30px;border-radius: 15px;">
+          </a>
+          <a href="mailto:guilherme.caetano1010@gmail.com">
+            <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gmailIcon.png" style="height: 30px; border-radius:15px">
+          </a>
+        </div>
+      </div>
+    </td>
   </tr>
 </table>
+
 
   <div style="margin-bottom: 100px; display: flex; flex-direction: column; align-items: center;">
     <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/guilherme.png">
