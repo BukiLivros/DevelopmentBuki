@@ -109,8 +109,8 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
     </div>
 </div>
 
-  <div style="width: 200px; height: 200px; border-radius: 100px; margin-bottom: 100px;">
-    <img src="img/guilhermeIcon.jpg" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
+  <div style="margin-bottom: 100px;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/guilherme.png" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
     <p style="text-align: center; font-weight: bold;">Financeiro e desenvolvedor Full-Stack</p>
     <div style="display: flex; gap: 20px; width: 200px; height: 50px; justify-content: center">
     <a href="https://www.linkedin.com/in/guilherme-caetano1010/" target="_blank"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;"></a>
@@ -120,8 +120,8 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
     </div>
   </div>
 
-  <div style="width: 200px; height: 200px; border-radius: 100px; margin-bottom: 100px;">
-    <img src="img/raquelIcon.jpg" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
+  <div style="margin-bottom: 100px;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/raquelIcon.png" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
     <p style="text-align: center; font-weight: bold;">Designer e desenvolvedora Back-End</p>
     <div style="display: flex; gap: 20px; width: 200px; height: 30px; justify-content: center">
     <a href="https://www.linkedin.com/in/raquel-silva13/" target="_blank"> <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;"></a>
@@ -131,8 +131,8 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
     </div>
   </div>
 
-  <div style="width: 200px; height: 200px; border-radius: 100px; margin-bottom: 100px;">
-    <img src="img/isaqueIcon.jpg" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
+  <div style="margin-bottom: 100px;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/isaqueIcon.png" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
     <p style="text-align: center; font-weight: bold;">Scrum Master e desenvolvedor Full-Stack</p>
     <div style="display: flex; gap: 20px; width: 200px; height: 30px; justify-content: center">
     <a href="https://www.linkedin.com/in/isaqueocruz/" target="_blank"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;"></a>
@@ -142,8 +142,8 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
     </div>
   </div>
   
-  <div style="width: 200px; height: 200px; border-radius: 100px; margin-bottom: 100px;">
-    <img src="img/matheusIcon.jpg" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
+  <div style="margin-bottom: 100px;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/matheusIcon.png" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
     <p style="text-align: center; font-weight: bold;">Desenvolvedor Back-End</p>
     <div style="display: flex; gap: 20px; width: 200px; height: 30px; justify-content: center">
     <a href="https://www.linkedin.com/in/matheus-soares-bressani-a71754182/" target="_blank"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;"></a>
@@ -153,8 +153,8 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
     </div>
   </div>
   
-  <div style="width: 200px; height: 200px; border-radius: 100px; margin-bottom: 100px;">
-    <img src="img/lucasIcon.jpg" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
+  <div style="margin-bottom: 100px;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/lucasIcon.png" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
     <p style="text-align: center; font-weight: bold;">Desenvolvedor Front-End</p>
     <div style="display: flex; gap: 20px; width: 200px; height: 30px; justify-content: center">
     <a href="https://www.linkedin.com/in/lucasmviegas/" target="_blank"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;"></a>
@@ -164,8 +164,8 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
     </div>
   </div>
   
-  <div style="width: 200px; height: 200px; border-radius: 100px; margin-bottom: 100px;">
-    <img src="img/amandaIcon.jpg" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
+ <div style="margin-bottom: 100px;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/amandaIcon.png" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
     <p style="text-align: center; font-weight: bold;">Desenvolvedora Front-End</p>
     <div style="display: flex; gap: 20px; width: 200px; height: 30px; justify-content: center">
     <a href="https://www.linkedin.com/in/amanda-brand%C3%A3o03/" target="_blank"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;"></a>
@@ -175,8 +175,8 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
     </div>
   </div>
 
-  <div style="width: 200px; height: 200px; border-radius: 100px; margin-bottom: 100px;">
-    <img src="img/arthurIcon.jpg" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
+  <div style="margin-bottom: 100px;">
+    <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/arthurIcon.png" style="border-radius: 100px; width: 100%; height: 100%; object-fit: cover; object-position: center 20%">
     <p style="text-align: center; font-weight: bold;">Desenvolvedor Back-End</p>
     <div style="display: flex; gap: 20px; width: 200px; height: 30px; justify-content: center">
     <a href="https://www.linkedin.com/in/arthur-java-jr/" target="_blank"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;"></a>
