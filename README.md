@@ -95,10 +95,11 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
 
   <div class="container" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;"> 
 
-  <div style="margin-bottom: 100px;">
+<div class="container" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <div style="margin-bottom: 100px; display: flex; flex-direction: column; align-items: center;">
     <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/leonardoIcon.png">
     <p style="text-align: center; font-weight: bold;">Product Owner e desenvolvedor Front-End</p>
-    <div style="display: flex; gap: 20px; width: 200px; height: 30px; justify-content: center;">
+    <div style="display: flex; gap: 20px; width: 200px; justify-content: center;">
         <a href="https://www.linkedin.com/in/leonardo-gon%C3%A7alves-dev/" target="_blank">
             <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;">
         </a>
@@ -107,7 +108,8 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
         </a>
         <a href="mailto:leo.d.anderson@hotmail.com"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gmailIcon.png" style="height: 30px; border-radius:15px"></a>
     </div>
-</div>
+  </div>
+
 
   <div style="margin-bottom: 100px;">
     <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/guilherme.png">
@@ -167,7 +169,7 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
   <div style="margin-bottom: 100px;">
     <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/arthurIcon.png">
     <p style="text-align: center; font-weight: bold;">Desenvolvedor Back-End</p>
-    <div style="display: flex; gap: 20px; width: 200px; height: 30px; justify-content: center">
+    <div style="display: flex; gap: 20px; width: 200px; justify-content: center">
     <a href="https://www.linkedin.com/in/arthur-java-jr/" target="_blank"><img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/linkedinIcon.png" style="height: 30px; border-radius: 15px;"></a>
     <a href="https://github.com/Artdev2004" target="_blank"> <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/gitHubIcon.png" style="height: 30px; border-radius:15px;"></a>
     <a href="mailto:arthur.soares.nascimento@outlook.com">
