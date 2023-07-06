@@ -93,7 +93,7 @@ Nossos objetivos são oferecer aos escritores a oportunidade de criar e publicar
 
 <h2 id="nossoTime"> 💼 Conheça nosso time!</h2>
 
-  <div class="container" style="display: flex; justify-content=center; flex-wrap: wrap; gap: 15px;"> 
+  <div class="container" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;"> 
 
   <div style="margin-bottom: 100px;">
     <img src="https://github.com/BukiLivros/DevelopmentBuki/blob/main/imagemReadme/leonardoIcon.png">
